@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-image: url("https://images6.alphacoders.com/614/thumb-1920-614159.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+.snoopy-dancando {
+    position: absolute;
+    width: 150px;
+    top: 500px;
+}
+
+.snoopy-esquerda {
+    left: 20px;
+}
+
+.snoopy-direita {
+    right: 20px;
+}
